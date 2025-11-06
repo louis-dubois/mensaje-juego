@@ -1,5 +1,9 @@
 {
-  "ES": "¡Louis está trabajando en las ciudades!",
-  "EN": "¡Louis is working on the cities!",
-  "LINK": "http://www.beautifulfantasy.art/2025/11/plans-for-cities-of-caverns-and-dryads.html"
+  "ES": "¡Louis está rabajando en las ciudades!",
+  "EN": "Louis is working on the cities!",
+  "LINK": "http://beautifulfantasy.art/ciudades",
+
+  "ES_android": "¡Nuevo parche exclusivo para Android!",
+  "EN_android": "New Android-only patch available!",
+  "LINK_android": "http://beautifulfantasy.art/android-patch"
 }
